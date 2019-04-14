@@ -1,0 +1,40 @@
+{
+  "unit_info":
+  {
+    "1meter_cube_price": 200,
+    "low_mCube":
+    {
+      "limit": 50,
+      "price": 60
+    },
+    "avg_mCube":
+    {
+      "limit": 80,
+      "price": 100
+    },
+    "high_mCube":
+    {
+      "limit": 120,
+      "price": 150
+    }
+  },
+  "resident":
+  {
+    "FullName": "",
+    "state" : "",
+    "Age": "",
+    "workplace" : "",
+    "Email": "",
+    "Address": "",
+    "User_ID": ""
+  },
+  "dates":
+   [
+    {
+      "usage_date": "",
+      "unit": "",
+      "isPaid": true
+    }
+   ]
+}
+
