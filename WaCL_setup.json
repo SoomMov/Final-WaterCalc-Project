@@ -1,21 +1,22 @@
 {
   "unit_info":
   {
-    "1meter_cube_price": 300,
+    "1meter_cube_price": 100,
     "low_mCube":
     {
       "limit": 50,
-      "price": 50
+      "price": 2500
     },
     "avg_mCube":
     {
       "limit": 80,
-      "price": 100
+      "price": 5000
     },
     "high_mCube":
     {
       "limit": 120,
-      "price": 350
+      "price": 9000
     }
   }}
+
 
